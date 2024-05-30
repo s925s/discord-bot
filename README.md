@@ -42,4 +42,4 @@ PayPayアカウントをリンクさせて自動で残高を受け取ること�
 サーバー / https://discord.gg/5gjNdHTDDu  
 Discord / s925s
 
-discord　ディスコード　自動販売機　bot　ボット　
+discord　ディスコード　自動販売機　自販機　bot　ボット　
